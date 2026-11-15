@@ -77,7 +77,7 @@ The dataset contains 5,336 brain images from 230 reported subjects.
 
 ### Dataset Partitioning
 
-The original dataset partition is preserved.
+The original dataset partition is preserved in this project.
 
 | Split | Images |
 |---|---:|
